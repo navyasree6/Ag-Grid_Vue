@@ -1,0 +1,15 @@
+{
+  "projectDetails": {
+      "projectName": "APPS"
+  },
+  
+  "datafields": {
+      "sport": [
+          "Swimming",
+          "Gymnastics",
+          "Speed Skating",
+          "Cycling",
+          "All"
+      ]
+    }
+  }
